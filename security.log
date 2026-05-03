@@ -1,0 +1,2 @@
+2026-05-03 22:28:29,468 | 403 FORBIDDEN | user=user1 | ip=127.0.0.1 | action=/user/1
+2026-05-03 22:29:06,425 | 403 FORBIDDEN | user=user1 | ip=127.0.0.1 | action=/user/1
